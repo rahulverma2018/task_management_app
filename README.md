@@ -72,8 +72,8 @@ lib/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/rahulverma2018/task-management-app.git
-cd task-management-app
+git clone https://github.com/rahulverma2018/task_management_app.git
+cd task_management_app
 ```
 
 ### 3. Install Dependencies
